@@ -1,0 +1,32 @@
+{
+  "name": "@bramhammer/flatpickr-predefined",
+  "version": "1.0.0",
+  "description": "Flatpickr plugin to set predefined ranges or allow custom selection",
+  "main": "predefined.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "prepublish": "npm prune && npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/breakerh/flatpickr-predefined.git"
+  },
+  "keywords": [
+    "flatpickr",
+    "plugin",
+    "predefined",
+    "moment",
+    "jquery",
+    "daterange"
+  ],
+  "author": "Bram Hammer <bhammer93@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/breakerh/flatpickr-predefined/issues"
+  },
+  "homepage": "https://github.com/breakerh/flatpickr-predefined#readme",
+  "devDependencies": {
+    "flatpickr": "^4.6.3",
+    "jshint": "^2.13.3"
+  }
+}
