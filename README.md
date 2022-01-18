@@ -1,3 +1,4 @@
+[![npm version](https://badge.fury.io/js/flatpickr-predefined.svg)](https://www.npmjs.com/package/flatpickr-predefined)
 # flatpickr-predefined
 Flatpickr plugin to show predefined options. Original script belongs to @patrick-vandy &amp; @austince
 
